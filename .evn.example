@@ -1,0 +1,8 @@
+PORT= put port name here
+
+
+# aws s3 bucket config:
+
+ACCESS_KEY_ID = #put access key id of aws bucket
+SECRET_ACCESS_KEY= #put secret access key
+BUCKET_NAME= #and bucket name
